@@ -42,7 +42,7 @@ Each of these was built under a hackathon or competition deadline, so treat them
 | **SahyogAI** | BRICS-themed health supply-chain hackathon | Next.js platform for public-health stock visibility, demand forecasting, redistribution matching and multilingual voice field reports (Google Speech + Gemini). Uses **synthetic** data and a federated-learning **simulation**. | [SahyogAi](https://github.com/Tenali-Radhika/SahyogAi) |
 | **Pivot Pilot** | Agentic AI Hackathon 2026 | Voice-first career-transition coach: resume vs. job-description skill-gap analysis, a 6-week roadmap and a mock-interview studio scored on four dimensions. React 19 + FastAPI, Gemini/Claude with an offline fallback. | [Pivot_Pilot](https://github.com/Tenali-Radhika/Pivot_Pilot) |
 | **Stock Weaves** | AI for Bharat hackathon | Streamlit dashboard testing whether stock returns relate to lunar phases, using permutation tests and bootstrap confidence intervals, with property-based tests. An experiment in rigorous statistical testing rather than a trading tool. *Private repo.* | private |
-| **LifeSync Mind** | Independent | Personal productivity and wellness app: tasks, habits, mood tracking and reflections. Next.js 14, TypeScript, Prisma, NextAuth. *Private repo.* | private |
+| **LifeSync Mind** | Dreamflow Buildathon 2025 | Personal productivity and wellness app: tasks, habits, mood tracking and reflections. Next.js 14, TypeScript, Prisma, NextAuth. *Private repo.* | private |
 
 ## Tech stack
 
